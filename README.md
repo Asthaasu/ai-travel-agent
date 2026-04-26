@@ -2,7 +2,7 @@
 
 An intelligent AI-powered travel planning assistant that generates complete travel itineraries including flights, hotels, and attractions — all in one place.
 
-🔗 **Live Demo:** [Click Here](https://ai-travel-agent.streamlit.app)
+🔗 **Live Demo:** [Click Here](https://ai-travel-agent-hof3nkyhtncijbl2jpbp8l.streamlit.app/)
 
 ---
 
